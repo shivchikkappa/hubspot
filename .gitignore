@@ -17,4 +17,4 @@ target/*
 *.iml
 */*/*/META-INF/build-info.properties
 
-
+.mvn/*
